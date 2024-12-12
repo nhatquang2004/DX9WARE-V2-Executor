@@ -13,6 +13,7 @@ To get started with DX9WARE-V2 Executor, follow these simple steps:
 
 
 
+
 ![DX9WARE-V2 Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
